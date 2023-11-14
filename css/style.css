@@ -95,3 +95,10 @@ footer{
     text-align: center;
     grid-column: 2;
 }
+
+.img {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin: auto;
+}
